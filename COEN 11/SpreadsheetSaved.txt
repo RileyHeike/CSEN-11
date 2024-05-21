@@ -1,0 +1,8 @@
+Matthew	Heike	16
+Tyler	Heath	12
+Lonnie	Walker	14
+Paul	George	9
+Danny	Granger	45
+John	Johnson	46
+Garry	Smith	87
+Tyron	Smith	88
